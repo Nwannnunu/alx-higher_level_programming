@@ -2,7 +2,7 @@
 """private instance attribute"""
 
 
-class square(object):
+class Square(object):
     """class Variable size"""
     def __init__(self, size):
         """initialize size"""
