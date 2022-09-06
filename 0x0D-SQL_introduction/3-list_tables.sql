@@ -1,2 +1,2 @@
---Script to list all Tables.
+-- Lists all tables of a database.
 SHOW TABLES;
