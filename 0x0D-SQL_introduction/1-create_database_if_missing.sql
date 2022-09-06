@@ -1,2 +1,2 @@
---Script that creates database hbtn_0c_0 in MSQL server.
+-- Script that creates database hbtn_0c_0 in MSQL server.
 CREATE DATABASE IF NOT EXISTS `hbtn_0c_0`;
